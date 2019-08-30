@@ -1,0 +1,12 @@
+h2 {
+    background: yellow;
+    color: green;
+}
+p{
+    color: red;
+    /* border: 1px solid black; */
+    text-align: center;
+}
+p:hover {
+    color: bisque;
+}
